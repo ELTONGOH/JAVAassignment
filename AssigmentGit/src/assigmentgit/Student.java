@@ -9,5 +9,5 @@ package assigmentgit;
  * @author gohyanxi
  */
 public class Student {
-    
+  
 }
