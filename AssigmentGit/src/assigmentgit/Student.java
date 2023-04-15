@@ -10,7 +10,12 @@ package assigmentgit;
  */
 public class Student {
   public void aa(){
+      System.out.println("Saleh Ahmed");
       System.out.println("hello world");
       System.out.println("elton ");
+  }
+  
+  public String bb(){
+      return"hi";
   }
 }
