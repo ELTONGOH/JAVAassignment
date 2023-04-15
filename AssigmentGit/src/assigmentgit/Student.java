@@ -10,6 +10,6 @@ package assigmentgit;
  */
 public class Student {
   public void aa(){
-      System.out.println("hi");
+      System.out.println("hello word");
   }
 }
