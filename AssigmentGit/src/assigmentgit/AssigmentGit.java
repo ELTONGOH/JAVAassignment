@@ -16,6 +16,10 @@ public class AssigmentGit {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("hello world");
+        for(int i  =0 ; i <5 ; i++) { 
+           System.out.println(i);
+            
+        }
     }
     
 }
