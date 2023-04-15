@@ -9,5 +9,7 @@ package assigmentgit;
  * @author gohyanxi
  */
 public class Student {
-  
+  public void aa(){
+      System.out.println("hi");
+  }
 }

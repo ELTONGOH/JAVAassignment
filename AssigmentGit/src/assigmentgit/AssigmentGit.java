@@ -3,7 +3,7 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
  */
 package assigmentgit;
-
+import Interface.Login;
 /**
  *
  * @author gohyanxi
@@ -20,6 +20,11 @@ public class AssigmentGit {
            System.out.println(i);
             
         }
+     Login ab = new Login();
+     ab.setVisible(true); // Make the JFrame visible
+
+     
     }
+    
     
 }
