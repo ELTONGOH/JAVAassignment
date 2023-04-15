@@ -22,7 +22,7 @@ public class AssigmentGit {
         }
      Login ab = new Login();
      ab.setVisible(true); // Make the JFrame visible
-
+     
      
     }
     

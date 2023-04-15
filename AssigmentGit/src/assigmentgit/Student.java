@@ -13,6 +13,10 @@ public class Student {
       System.out.println("Saleh Ahmed");
       System.out.println("hello world");
       System.out.println("elton ");
+      System.out.println("elton ");
+      System.out.println("elton ");
+      
+      System.out.println("elton ");
   }
   
   public String bb(){
